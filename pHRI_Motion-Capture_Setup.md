@@ -1,4 +1,4 @@
-## pHRI Motion Capture Documentation
+## pHRI Motion Capture Setup Documentation
 ### [NeuroErgonomics Lab](https://neuroergolab.org/)
 - PI: Dr. Ranjana Mehta
 - Mentor: Aakash Yadav
@@ -17,6 +17,24 @@
 7. [(Pre-)Processing and Exporting Data](#7-pre-processing-and-exporting-data)
 8. [Analyzing Data (in-progress)](#8-analyzing-data-tbd)
 
+---
+### Summary of Steps:
+1. Download XSens software (MVN), activate license (Dongle), follow the installer instructions
+2. Download Steam, login with lab credentials, search and install SteamVR
+3. Set up motion capture environment:
+   - Set up base stations
+   - Link and connect all SteamVR hardware to computer
+   - Make changes to MVN's settings to optimize for pHRI experiment
+4. Set up motion capture:
+    - Suit up experimental subject following the XSens sensor layout
+    - Ensure SteamVR HTC Vive trackers are within view of base stations
+    - Attach waist Vive tracker right above the experimental subject's pelvis XSens sensor
+    - Attach object Vive tracker to the object
+5. Perform all calibration within view of base stations. DO NOT leave the line of sight of base stations
+6. Follow any prompts that show up. Retry caliration as needed (N-pose vs T-pose)
+7. Reset coordinate system, other settings as needed (more info below)
+
+#### Congrats! This is a brief overview of the procedure to get XSens, SteamVR, setup, and calibration done for successfully performing pHRI trials.
 
 ---
 
