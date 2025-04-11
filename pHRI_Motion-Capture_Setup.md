@@ -18,7 +18,7 @@
 8. [Analyzing Data (in-progress)](#8-analyzing-data-tbd)
 
 ---
-### Summary of Steps:
+### Summary of Steps (More detailed info below)
 1. Download XSens software (MVN), activate license (Dongle), follow the installer instructions
 2. Download Steam, login with lab credentials, search and install SteamVR
 3. Set up motion capture environment:
@@ -35,6 +35,7 @@
 7. Reset coordinate system, other settings as needed (more info below)
 
 #### Congrats! This is a brief overview of the procedure to get XSens, SteamVR, setup, and calibration done for successfully performing pHRI trials.
+### More detailed instructions are immediately below!
 
 ---
 
